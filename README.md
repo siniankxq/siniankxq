@@ -42,6 +42,6 @@
 </div>
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=siniankxq&theme=xcode" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=siniankxq&theme=react-dark" />
 </div>
 

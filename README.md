@@ -37,11 +37,11 @@
 </div>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siniankxq&show_icons=true&theme=gotham" alt="siniankxq" />
-  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/siniankxq/siniankxq/assets/github-contribution-grid-snake.svg" />
+</div>
+
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=siniankxq&theme=xcode" />
 </div>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/siniankxq/siniankxq/assets/github-contribution-grid-snake.svg" />
-</div>

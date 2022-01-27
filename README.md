@@ -1,8 +1,8 @@
 
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Preetham](https://www.linkedin.com/in/preetham-b-95a962153).
 
-- 💬 Ask me about [Nodejs](https://nodejs.org/) and [golang](https://golang.org/) and [python](https://www.python.org/)!
-- 📫 How to reach me: `siniankxq@gmail.com`
+- 💬 Ask me about [java](https://java.com/) and [javascript](https://www.javascript.com/) and [python](https://www.python.org/)!
+- 📫 How to reach me: `siniankxq@163.com`
 
 <a href="https://twitter.com/siniankxq">
   <img align="left" alt="Preetham B | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -21,29 +21,22 @@
 
 
 **languages and tools:**  
-
+[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>](https://www.java.com/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>](https://www.javascript.com/)
-[<code><img height="20" 
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>](https://www.python.org/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>](https://www.gnu.org/software/bash/)
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>](https://en.wikipedia.org/wiki/C%2B%2B)
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/nginx-3521604-2945048.png"></code>](https://www.nginx.com/)
 [<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/1200px-Apache_HTTP_server_logo_%282019-present%29.svg.png"></code>](https://httpd.apache.org/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>](https://www.mysql.com/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>](https://www.mongodb.com/)
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>](https://www.postgresql.org/)
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>](https://firebase.google.com/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>](https://www.linux.org/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>](https://github.com/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>](https://www.docker.com/)
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>](https://expressjs.com/)
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>](https://atom.io/)
+[<code><img height="20" src="https://www.jetbrains.com/idea/img/idea-edu.svg"></code>](https://www.jetbrains.com/idea/)
 [<code><img height="20" src="https://code.visualstudio.com/assets/favicon.ico"></code>](https://code.visualstudio.com/)
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>](https://aws.amazon.com/)
 
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siniankxq&show_icons=true&theme=gotham" alt="siniankxq" />
 
-![Snake animation](https://github.com/siniankxq/siniankxq/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://cdn.jsdelivr.net/gh/siniankxq/siniankxq/assets/github-contribution-grid-snake.svg)

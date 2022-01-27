@@ -12,7 +12,7 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=siniankxq.siniankxq)
+![visitor](https://visitor-badge.glitch.me/badge?page_id=siniankxq.siniankxq)
 
 
 **languages and tools:**  
@@ -37,5 +37,7 @@
 </div>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siniankxq&show_icons=true&theme=gotham" alt="siniankxq" />
-  
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=siniankxq&theme=xcode" />
+</div>
 ![Snake animation](https://cdn.jsdelivr.net/gh/siniankxq/siniankxq/assets/github-contribution-grid-snake.svg)

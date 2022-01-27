@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Preetham](https://www.linkedin.com/in/preetham-b-95a962153).
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [ypc/(siniankxq)](https://www.linkedin.com/in/preetham-b-95a962153).
 
 - 💬 Ask me about [java](https://java.com/) and [javascript](https://www.javascript.com/) and [python](https://www.python.org/)!
 - 📫 How to reach me: `siniankxq@163.com`

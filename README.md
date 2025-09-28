@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [ypc/(siniankxq)](https://b23.tv/XVHxjtc).
 
 - 💬 Ask me about [java](https://java.com/) and [javascript](https://www.javascript.com/) and [python](https://www.python.org/)!
-- 📫 How to reach me: `siniankxq@163.com`
+- 📫 How to reach me: `ypc@larkmail.257798.xyz`
 
 <a href="https://b23.tv/XVHxjtc">
   <img align="left" alt="siniankxq | bilibili" width="22px" src="https://www.bilibili.com/favicon.ico?v=1" />
